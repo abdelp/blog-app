@@ -10,6 +10,9 @@ files:
     - "Guardfile"
     - "Rakefile"
     - "node_modules/**/*"
+    - "test/controllers/authors_controller_test.rb"
+    - "db/schema.rb"
+    - "config/initializers/sorcery.rb"
     
 # PLEASE DO NOT enable auto fixing options
 # if you need extra support from you linter - do it in your local env as described in README for this config
