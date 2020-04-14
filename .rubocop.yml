@@ -3,6 +3,9 @@ AllCops:
     - "README.md"
     - "Guardfile"
     - "Rakefile"
+    - "test/controllers/authors_controller_test.rb"
+    - "db/schema.rb"
+    - "config/initializers/sorcery.rb"
 
   DisplayCopNames: true
 
