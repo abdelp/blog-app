@@ -1,24 +1,44 @@
-# README
+# Blogger 2
+This project entails creating a simple blog system using Ruby on Rails. The scope of the project includes:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  - Models, Views, and Controllers (MVC)
+  - Data Structures & Relationships
+  - Routing
+  - Migrations
+  - Views with forms, partials, and helpers
+  - RESTful design
+  - Adding gems for extra features
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby on Rails
+- Postgresql (production)
+- Sqlite3 (development)
+- Heroku
+- Rubocop Linter
+- Stickler CI
 
-* System dependencies
+![screenshot](app/assets/img/screenshot/screenshot.png)
 
-* Configuration
+## Live Demo
 
-* Database creation
+- [Live Demo Link]()
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+👤 **Martin Njoroge**
 
-* Services (job queues, cache servers, search engines, etc.)
+- Github: [@kwizl](https://github.com/kwizl)
+- Twitter: [@NjoroKaris](https://twitter.com/NjoroKaris)
+- Linkedin: [martin njoroge](https://www.linkedin.com/in/martin-njoroge-098774110/)
 
-* Deployment instructions
+👤 **Abdel Omar Pérez Téllez**
 
-* ...
+- Github: [abdelp](https://github.com/abdelp)
+- Twitter: [@abdelperez11](https://twitter.com/abdelperez11) 
+- Linkedin: [abdel-perez](https://www.linkedin.com/in/abdel-perez/)
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
