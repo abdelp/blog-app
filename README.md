@@ -22,7 +22,7 @@ This project entails creating a simple blog system using Ruby on Rails. The scop
 
 ## Live Demo
 
-- [Live Demo Link]()
+- [Live Demo Link](https://fathomless-cliffs-29290.herokuapp.com/)
 
 ## Authors
 
